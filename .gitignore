@@ -1,0 +1,9 @@
+model/
+.ipynb_checkpoints/
+data_clean/
+data_to_dedup/
+*.zip
+runs/
+des_all.json
+description/
+*.json
